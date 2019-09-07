@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: deipy
+Version: 1.0
+Summary: Data Analysis Engine
+Home-page: https://github.com/logisgma/deipy
+Author: Jisu Lee
+Author-email: logsigma@naver.com
+License: UNKNOWN
+Download-URL: https://github.com/logisgma/deipy
+Description: UNKNOWN
+Keywords: bot,study,api
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Natural Language :: English
+Requires-Python: >=3

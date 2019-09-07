@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+deipy/__init__.py
+deipy.egg-info/PKG-INFO
+deipy.egg-info/SOURCES.txt
+deipy.egg-info/dependency_links.txt
+deipy.egg-info/not-zip-safe
+deipy.egg-info/requires.txt
+deipy.egg-info/top_level.txt
